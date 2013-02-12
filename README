@@ -1,16 +1,18 @@
-  ==================================================
-  Active Buildings
-  Device-side (XBee router) Program for Arduino
-  with Network communication with XBee
-  *** This code is for Printed Circuit Board and
-  Breadboard versions. Select digital pins for the
-  correct board.
+Active Buildings Project
+
+Device-side (Sensor Module with XBee router) Program for Arduino with Network communication with XBee.
+
+This code is for Printed Circuit Board and Breadboard versions. Select correct digital pins for the correct board.
+
   - Light, Sound, Temperature/Humidity sensors
   - Potentiometer
   - Voltage (battery) Meter
   - RFID reader
-  Author: Yasu Santo 2012 (yasu@santo.com)
-  ==================================================
-  DHT.cpp - DHT sensor library
-  https://github.com/ringerc/Arduino-DHT22
-  ==================================================
+
+Author: Yasu Santo 2011~ (yasu@santo.com)
+
+====================
+
+DHT.cpp - DHT sensor library
+https://github.com/ringerc/Arduino-DHT22
+
